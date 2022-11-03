@@ -1,5 +1,5 @@
 # L2TP-Meraki-VPN-Windows
-Meraki VPN parameters for the remote windows users that use the L2TP/IPsec VPN supported on the MX security appliances. The following scripts allow Windows PC users to connect when the MX security appliance is behind a NAT device.  
+Meraki VPN parameters for the remote windows users that use the L2TP/IPsec VPN supported on the MX security appliances. The following scripts allow Windows PC users to connect when the MX security appliance is behind a NAT device. Windows users may see a VPN Error Code 809 when the VPN server is behind a NAT device.
 
 This also works for MikroTik routers that are also behind a NAT device. 
 
